@@ -4,12 +4,12 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Hello City</title>
+        <title>About Us | Hello City</title>
         
     </head>
     <body>
-        <h1>Hello from Birmingham!</h1>
-        <p>It's currently {{ date('h:i A')}}.</p>
+        <p>Built with &hearts; by OT Web Developer</p>
+        <p><a href="/">Return to home page</a></p>
         <footer>&copy; Copyright {{ date('Y')}} &middot; <a href="/about-us">About us</a></footer>
     </body>
 </html>
