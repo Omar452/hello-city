@@ -10,6 +10,6 @@
     <body>
         <p>Built with &hearts; by OT Web Developer</p>
         <p><a href="/">Return to home page</a></p>
-        <footer>&copy; Copyright {{ date('Y')}} &middot; <a href="/about-us">About us</a></footer>
+        <footer>&copy; Copyright {{ date('Y')}}</a></footer>
     </body>
 </html>
