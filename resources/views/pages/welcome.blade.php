@@ -1,4 +1,4 @@
-@extends('base')
+@extends('app')
 
 @section('content')
 <h1>Hello from Birmingham!</h1>
