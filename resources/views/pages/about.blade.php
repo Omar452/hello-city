@@ -4,7 +4,7 @@
 
 
 @section('content')
-    <img src="/images/otwebdeveloper-logo.svg" alt="ot web developer logo">
+    <img src={{ asset("/images/otwebdeveloper-logo.svg") }} alt="ot web developer logo">
     <p>Built with &hearts; by OT Web Developer</p>
     <p><a href={{route('home')}}>Return to home page</a></p>
 @endsection
