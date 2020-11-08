@@ -1,4 +1,4 @@
-@extends('app')
+@extends('layouts/app')
 
 @section('content')
     <img class="h-40 rounded shadow-md mt-12" src={{ asset("/images/birmingham-flag.svg") }} alt="birmingham flag">
